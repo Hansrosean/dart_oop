@@ -11,4 +11,6 @@ void main() {
 /**
  * Abstract Class = class yang tidak dapat diinisialisasikan menjadi sebuah objek.
  * namun masih dapat menurunkan sifatnya ke class lainnya
+ * 
+ * Contoh terdapat pada class Laptop
  */
